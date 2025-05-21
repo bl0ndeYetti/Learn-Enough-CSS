@@ -1,3 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  background: #f9f9f9;
+  padding: 1em;
+}
+
 .red-link {
   color: red;
 }
@@ -20,3 +28,9 @@
   color: #555;
   font-size: 0.9em;
 }
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
