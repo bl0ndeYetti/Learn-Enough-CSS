@@ -1,0 +1,22 @@
+.red-link {
+  color: red;
+}
+
+.green-link {
+  color: green;
+}
+
+.boxed {
+  border: 1px solid black;
+  padding: 4px;
+  margin: 4px 0;
+}
+
+.tagline {
+  font-style: italic;
+}
+
+.ai-update {
+  color: #555;
+  font-size: 0.9em;
+}
